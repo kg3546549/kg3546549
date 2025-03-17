@@ -42,12 +42,12 @@ Familiar |  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-squ
 - (2024.03 ~ ) Soongsil University, Department of Media Management, IT College
 
 # 🎁 Awards
-* 🥉(2018.10) 2018 전국기능경기대회 : 한국산업인력공단 (동메달)
+* **🥉(2018.10) 2018 전국기능경기대회 : 한국산업인력공단 (동메달)**
 * 🥇(2018.04) 2018 충청북도 기능경기대회 : 한국산업인력공단 (금메달)
 * (2017.09) 2018 전국기능경기대회 : 한국산업인력공단 (장려상)
 * 🥉(2017.04) 2018 충청북도 기능경기대회 : 한국산업인력공단 (동메달)
 
-# Contact
+# 📞Contact
 Email | kg354654932@gmail.com
 -|-
 Instagram | https://www.instagram.com/geonnogun/
