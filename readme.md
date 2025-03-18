@@ -11,9 +11,9 @@
  - <P><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
  - <img src="https://img.shields.io/badge/ATMEGA-DD1100?style=flat-square&logo=&logoColor=white"/>
 
-### Skills
-- Smart Card - ISO7816
+### Embedded Systems Skills
 - Contactless Smart Card - ISO14443
+- Smart Card - ISO7816
 - BLE
 - RTOS(uc-OS II)
 - UART, I2C, CAN
