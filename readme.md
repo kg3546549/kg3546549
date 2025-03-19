@@ -8,7 +8,7 @@
 
 ## Embeded Technology Stacks
 ### Chipsets
- - <P><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+ - <p><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/> </p>
  - <img src="https://img.shields.io/badge/ATMEGA-DD1100?style=flat-square&logo=&logoColor=white"/>
 
 ### Embedded Systems Skills
@@ -20,18 +20,22 @@
 - Bootloader
 
 ### Tools
-- STM32 Cube IDE
-- IAR for ARM
-- Altium Designer
-- OrCAD
+- <p> <img src="https://img.shields.io/badge/IAR Embeded Workbench-F7DF1E?style=flat-square&logoColor=white"/> </p> 
 
-## Languages
+- <p><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/> </p> 
+
+- <p> <img src="https://img.shields.io/badge/Altium Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white"/> </p>
+
+- <p> <img src="https://img.shields.io/badge/OrCAD-DD1100?style=flat-square&logo=&logoColor=white"/>
+
+## Other Technology Stacks
+### Languages
 Level|Technologies
 --- | ---
 **Skilled** | <p> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> </p>
 **Familiar** | <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </p>
 
-## Frameworks
+### Frameworks
 Level|Technologies
 --- | ---
 **Skilled** | <p> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> </p>
@@ -45,7 +49,7 @@ Level | Technologies
 ### OS
 Level | Technologies
 --- | ---
-**Skilled** | <p> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/></p>
+**Skilled** | <p>  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </p>
   
 
 # 🏫School
@@ -65,7 +69,7 @@ Level | Technologies
 * 🥉(2017.04) 2017 충청북도 기능경기대회 : 공업전자기기 (동메달)
 * 🥉(2016.07) 2016 전국 고교생 전자CAD 기술대회(동상)
   
-  
+   
 # 📞Contact
 Email | kg354654932@gmail.com
 -|-
