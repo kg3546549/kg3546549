@@ -52,7 +52,7 @@ Level | Technologies
 **Skilled** | <p>  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </p>
   
 
-# 🏫School
+# 🏫 Education
 - (2024.03 ~ ) Soongsil University, Department of Media Management, IT College
 - (2016.03 ~ 2019.02)  Chengju Industrial High School, Department of Computer and Electronic
 
@@ -69,8 +69,8 @@ Level | Technologies
 * 🥉(2017.04) 2017 충청북도 기능경기대회 : 공업전자기기 (동메달)
 * 🥉(2016.07) 2016 전국 고교생 전자CAD 기술대회(동상)
   
-   
-# 📞Contact
+
+# 📞 Contact
 Email | kg354654932@gmail.com
 -|-
 Instagram | https://www.instagram.com/geonnogun/
