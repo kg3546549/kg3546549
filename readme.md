@@ -16,7 +16,6 @@
 - Smart Card - ISO7816
 - BLE
 - RTOS(uc-OS II)
-- UART, I2C, CAN
 - Bootloader
 
 ### Tools
